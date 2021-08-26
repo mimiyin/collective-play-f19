@@ -6,7 +6,7 @@
 
 ### [See course description below.](https://github.com/mimiyin/collective-play-f19#course-description)
 
-## Resources
+## Resourceses
    * Class Google Group. I will be adding you after the first class.
    * Class Google Drive Folder. Resources from class, assignments.
    * All code examples will be pushed to this github repo.
